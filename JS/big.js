@@ -173,7 +173,7 @@ function ready() {
                 
           }
 
-          resultado.innerHTML += `<a class="btn btn-danger text-decoration-none text-light fw-bold my-4" href="/html/index.html">Volver a jugar</a>`
+          resultado.innerHTML += `<a class="btn btn-danger text-decoration-none text-light fw-bold my-4" href="index.html">Volver a jugar</a>`
        
         clearInterval(timer);
         resultado.removeChild(conteo)

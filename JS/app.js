@@ -13,15 +13,15 @@ function bienvenida(e) {
   const cambio= 
   contenedor.innerHTML= `
   <div class="row justify-content-center w-auto">
-       <div class="col-6">
+       <div class="col-md-6">
 
-          <h2>Hola ${inputNombre}</h2>
+          <h2 class="mb-4">Hola ${inputNombre}</h2>
           <form class="form-control w-auto text-center" id="categorias">
                 <label class="form-label"> Selecciona una categoria:</label>
                 <select id="opciones">
                   <option selected>---</option>
-                  <option id="bigbang" value= "/html/bigbang.html">The big bang theory</option>
-                  <option id="malcolm" value= "/html/malcolm.html">Malcolm in the middle</option>
+                  <option id="bigbang" value= "bigbang.html">The big bang theory</option>
+                  <option id="malcolm" value= "malcolm.html">Malcolm in the middle</option>
                 </select>
               </form>
         </div>     
