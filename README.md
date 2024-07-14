@@ -1,40 +1,41 @@
-🌟 Comedy Selector App 🎭
+# 🌟 Comedy Selector App 🎭
 
-Welcome to the Comedy Selector App! This project allows users to select between two beloved comedies: The Big Bang Theory and Malcolm in the Middle. Enjoy a personalized greeting and easy navigation to your favorite show!
-🚀 Features
+Welcome to the **Comedy Selector App**! This project allows users to select between two beloved comedies: **The Big Bang Theory** and **Malcolm in the Middle**. Enjoy a personalized greeting and easy navigation to your favorite show!
 
-    Personalized Greeting: Enter your name and get a custom welcome message! 😊
-    Category Selection: Choose between two iconic comedies:
-        The Big Bang Theory 🧑‍🔬
-        Malcolm in the Middle 👨‍👩‍👦‍👦
-    Easy Navigation: Seamlessly redirects to the selected comedy page.
+## 🚀 Features
 
-📂 Project Structure
+- **Personalized Greeting**: Enter your name and get a custom welcome message! 😊
+- **Category Selection**: Choose between two iconic comedies:
+  - **The Big Bang Theory** 🧑‍🔬
+  - **Malcolm in the Middle** 👨‍👩‍👦‍👦
+- **Easy Navigation**: Seamlessly redirects to the selected comedy page.
 
-    index.html: The main HTML file that contains the user input form and dynamic content.
-    script.js: The JavaScript file responsible for handling user input and redirection.
+## 📂 Project Structure
 
-📜 How It Works
+- `index.html`: The main HTML file that contains the user input form and dynamic content.
+- `script.js`: The JavaScript file responsible for handling user input and redirection.
 
-    Enter Your Name:
-        The app starts with a form where you can input your name.
-        After submission, the form is hidden, and a personalized greeting along with a category selection dropdown is displayed.
+## 📜 How It Works
 
-    Select a Comedy:
-        Choose between "The Big Bang Theory" or "Malcolm in the Middle" from the dropdown menu.
-        You will be redirected to the corresponding page based on your choice.
+1. **Enter Your Name**:
+   - The app starts with a form where you can input your name.
+   - After submission, the form is hidden, and a personalized greeting along with a category selection dropdown is displayed.
 
-💡 How to Run
+2. **Select a Comedy**:
+   - Choose between "The Big Bang Theory" or "Malcolm in the Middle" from the dropdown menu.
+   - You will be redirected to the corresponding page based on your choice.
 
-    Open index.html in your browser to start the app.
-    Enter your name and select a comedy from the dropdown menu to navigate to the selected page.
+## 💡 How to Run
 
-🛠️ Technologies Used
+1. Open `index.html` in your browser to start the app.
+2. Enter your name and select a comedy from the dropdown menu to navigate to the selected page.
 
-    HTML
-    CSS (for styling, if applicable)
-    JavaScript
+## 🛠️ Technologies Used
 
-📧 Contact
+- HTML
+- CSS (for styling, if applicable)
+- JavaScript
+
+## 📧 Contact
 
 For any questions or suggestions, feel free to reach out!
