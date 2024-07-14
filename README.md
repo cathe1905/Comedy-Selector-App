@@ -27,7 +27,7 @@ Welcome to the **Comedy Selector App**! This project allows users to select betw
 
 ## 💡 How to Run
 
-1. Access the deployed app via the following [Vercel link](YOUR_VERCEL_URL_HERE).
+1. Access the deployed app via the following (https://comedy-trivia.vercel.app/).
 2. Enter your name and select a comedy from the dropdown menu to navigate to the selected page.
 
 ## 🛠️ Technologies Used
