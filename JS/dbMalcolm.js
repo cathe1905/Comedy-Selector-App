@@ -1,35 +1,35 @@
 let data = [
   {
     pregunta: "¿De cuánto es el IQ de Malcolm?",
-    imagen: "https://i.ibb.co/c32Pz26/malcolmiq.jpg",
+    imagen: 'img/malcolm/images.jpg',
     respuesta: "165",
     distractores: ["200", "185", "165"],
   },
 
   {
     pregunta: "¿Cuál de los hermanos tiene habilidades para la cocina?",
-    imagen: "https://i.ibb.co/kydn7wm/cocinando.jpg",
+    imagen: "img/malcolm/4b772d1cbabee6621462721db1259731.jpg",
     respuesta: "Reese",
     distractores: ["Francis", "Malcolm", "Reese"],
   },
 
   {
     pregunta: "¿Cuál es el nombre del padre de Malcolm?",
-    imagen: "https://i.ibb.co/F3xWVKX/hal.jpg",
+    imagen: "img/malcolm/Hal_T7_1.webp",
     respuesta: "Hal",
     distractores: ["Craig", "Hal", "Abe"],
   },
 
   {
     pregunta: "¿Cómo se llamó la primera novia de Malcom?",
-    imagen: "https://i.ibb.co/sjbQg9S/Sara.jpg",
+    imagen: "img/malcolm/Girlfriend-Malcolm-Serie.webp",
     respuesta: "Sara",
     distractores: ["Sara", "Cynthia", "Wendy"],
   },
 
   {
     pregunta: "¿A dónde es enviado Francis para estudiar?",
-    imagen: "https://i.ibb.co/PFdf3g3/Academia-Marlin.jpg",
+    imagen: "img/malcolm/Francis_Escapes.webp",
     respuesta: "Academia Militar Marlin",
     distractores: [
       "Academia Militar Kent",
@@ -40,10 +40,9 @@ let data = [
 
   {
     pregunta: "¿Cómo se llama el Hamster de Dewey?",
-    imagen: "https://i.ibb.co/JFr2C0d/Bernardo.jpg",
+    imagen: "img/malcolm/Bernard.webp",
     respuesta: "Bernardo",
     distractores: ["Bernardo", "Jerry", "Ted"],
   },
 ];
 
-console.log(baseDePreguntas);
